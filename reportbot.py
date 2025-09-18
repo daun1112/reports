@@ -9,7 +9,7 @@ from aiogram import F
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from datetime import datetime, timedelta
 
-API_TOKEN = "8165729586:AAGpJ1rtPNUhJvgxQZLt8J9lHSu-JDYu168"
+API_TOKEN "хуй тебе"
 DEVELOPER_ID = 5675745209
 CHANNEL_ID = -1003048269697
 
